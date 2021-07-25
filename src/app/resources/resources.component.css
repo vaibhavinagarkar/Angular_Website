@@ -1,0 +1,26 @@
+h1{
+
+    background-image: linear-gradient( to right , #a517ba,#a517ba);
+    padding: 60px;
+    color: white;
+    height: 60px;
+}
+#bng{
+    text-align: center;
+}
+
+.card :hover{
+    
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+#footer {
+    background: linear-gradient( to right , #a517ba ,#5f1782);
+    padding: 0 !important;
+    width: 100%;
+}
+
+#footer :hover{
+    text-decoration-line: underline;
+
+}
